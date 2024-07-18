@@ -23,7 +23,7 @@ I am a passionate and dedicated Software Tester with a strong foundation in Comp
 
 - **Bachelor of Science in Computer Science**
   - Graduated: 2023
-  - Institution: [Your College/University Name]
+  - Institution: SSS COLLEGE OF ARTS & SCIENCE
 
 - **Professional Training at Qspiders**
   - Focus: Core Java, SQL, Manual Testing, Automation Testing
@@ -31,13 +31,13 @@ I am a passionate and dedicated Software Tester with a strong foundation in Comp
 
 ## 💼 Professional Experience
 
-- **Intern at [Company Name]**
+- **Intern at Kaashiv Infotech**
   - Role: Software Tester
   - Responsibilities: Conducted manual and automated tests, documented bugs, collaborated with the development team to resolve issues.
 
 ## 📈 Projects
 
-### 1. [Project Name]
+### 1. Demo Application Tested by using Selenium tool
 - **Description**: Briefly describe what the project is about.
 - **Technologies Used**: Java, Selenium, TestNG, ExtentReports
 - **Screenshot**:
@@ -45,13 +45,7 @@ I am a passionate and dedicated Software Tester with a strong foundation in Comp
   <img src="https://your-image-url.com/project1.png" width="400"/>
 </p>
 
-### 2. [Project Name]
-- **Description**: Briefly describe what the project is about.
-- **Technologies Used**: Java, SQL, MySQL
-- **Screenshot**:
-<p align="center">
-  <img src="https://your-image-url.com/project2.png" width="400"/>
-</p>
+
 
 ## 🔍 Current Focus
 
@@ -60,8 +54,8 @@ I am currently seeking opportunities to work as a Software Tester where I can ap
 ## 📫 How to Reach Me
 
 - **Email**: ganeshvelmurugan112@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/ganesh-testengineer)
+- **GitHub**: [Your GitHub Profile](https://github.com/GANESHGITHUB112)
 
 ## 💬 Let's Connect
 
