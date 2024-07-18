@@ -54,8 +54,8 @@ I am currently seeking opportunities to work as a Software Tester where I can ap
 ## 📫 How to Reach Me
 
 - **Email**: ganeshvelmurugan112@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/ganesh-testengineer)
-- **GitHub**: [Your GitHub Profile](https://github.com/GANESHGITHUB112)
+- **LinkedIn**: (https://linkedin.com/in/ganesh-testengineer)
+- **GitHub**: (https://github.com/GANESHGITHUB112)
 
 ## 💬 Let's Connect
 
