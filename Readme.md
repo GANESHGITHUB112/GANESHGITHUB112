@@ -42,7 +42,7 @@ I am a passionate and dedicated Software Tester with a strong foundation in Comp
 - **Technologies Used**: Java, Selenium, TestNG, ExtentReports
 - **Screenshot**:
 <p align="center">
-  <img src="https://your-image-url.com/project1.png" width="400"/>
+  <img src="https://ibb.co/CWnf9bF" width="400"/>
 </p>
 
 
