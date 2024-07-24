@@ -37,9 +37,9 @@ I am a passionate and dedicated Software Tester with a strong foundation in Comp
 
 ## 📈 Projects
 
-### 1. Demo Application Tested by using Selenium tool
-- **Description**: Briefly describe what the project is about.
-- **Technologies Used**: Java, Selenium, TestNG, ExtentReports
+### 1. Data-Driven Testing Framework using Selenium and TestNG
+- **Description**: Develop a robust automation testing framework using Selenium WebDriver and TestNG. The framework should support data-driven testing, allowing test data to be driven from external sources such as Excel files. The framework should also include comprehensive reporting using ExtentReports.
+- **Technologies Used**: Java, Selenium, TestNG, ExtentReports,Apache POI
 - **Screenshot**:
 <p align="center">
   <img src="https://ibb.co/CWnf9bF"width="400"/>
